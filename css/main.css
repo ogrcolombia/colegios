@@ -1431,7 +1431,7 @@ textarea:focus {
 }
 
 .ms-skin-light-6 .ms-bullets.ms-dir-h .ms-bullet.ms-bullet-selected:before {
-    background-color: #ef3f6b
+   /* background-color: #ef3f6b*/
 }
 
 .ms-skin-light-6 .ms-bullets.ms-dir-h .ms-bullet:after {
@@ -1443,7 +1443,7 @@ textarea:focus {
     margin-top: -9px;
     margin-left: -9px;
     content: '';
-    border: 2px #FFF solid;
+    /*border: 2px #FFF solid;*/
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%
